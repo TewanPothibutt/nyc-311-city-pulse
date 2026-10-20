@@ -8,6 +8,13 @@
       "when": 1792457574498,
       "tag": "0000_naive_stephen_strange",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1792458029871,
+      "tag": "0001_stormy_hobgoblin",
+      "breakpoints": true
     }
   ]
 }
